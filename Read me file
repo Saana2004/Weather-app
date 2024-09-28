@@ -1,0 +1,36 @@
+
+
+Weather App
+
+This repository contains the source code for a weather application that provides real-time weather data.
+
+About
+
+The Weather App allows users to search for current weather conditions based on their location. It utilizes an API to fetch weather data and presents it in a user-friendly interface.
+
+Features
+
+- Real-time weather data retrieval.
+- User-friendly interface.
+- Responsive design for various devices.
+
+Project Structure
+
+- index.html: Main HTML file for the application.
+- App.vue: Vue component for the app's functionality.
+- Dockerfile: Contains instructions for building the Docker image.
+- Pipfile: Dependency management for Python.
+
+How to Use
+
+1. Clone the repository.
+2. Install the required dependencies.
+3. Open index.html in your web browser to run the application.
+
+Resources
+
+- API used for weather data: [OpenWeatherMap](https://openweathermap.org/api)
+
+License
+
+This project is licensed under the MIT License.
